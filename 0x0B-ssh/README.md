@@ -40,4 +40,4 @@ mandatory
 Score: 0.0% (Checks completed: 0.0%)
 Now that you have successfully connected to your server, we would also like to join the party.
 
-Add the SSH public key below to your server so that we can connect using the ubuntu user.
+Add the SSH public key below to your server so that we can connect using the ubuntu user
